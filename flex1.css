@@ -1,0 +1,21 @@
+.box{
+    display: flex;
+    background-color: rgb(100, 100, 255);
+    padding: 20px;
+    justify-content: stretch;
+}
+.block1,
+.block2,
+.block3,
+.block4{
+    background-color: rgb(188, 188, 188);
+    border: 1px solid rgb(97, 97, 97);
+    padding: 10px;
+    margin-left: 10px;
+}
+.block1{
+    padding: 20px 30px 20px;
+}
+.block2{
+    padding: -10px 40px ;
+}
